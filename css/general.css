@@ -161,6 +161,10 @@ width: 50px;
 }
 
 .tworow{margin-top: 90px;}
+#svg-icon{
+	height: 150px;
+	width: 150px;
+}
 
 .social {
 	font-size: 30px;
