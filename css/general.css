@@ -161,6 +161,10 @@ width: 50px;
 }
 
 .tworow{margin-top: 90px;}
+.threerow{
+	margin-top: 110px;
+	margin-bottom: 20px;
+}
 #svg-icon{
 	height: 150px;
 	width: 150px;
